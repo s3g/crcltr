@@ -1,4 +1,5 @@
-# crcltr
+# CRCLTR
+
 Looper firmware for Noise Engineering Versio eurorack module. Check the <a href="https://github.com/s3g/crcltr/releases">Releases page for latest bin file</a>.  Use the <a href="https://electro-smith.github.io/Programmer/">Daisy Web Programmer</a> to upload to your Versio module.
 
 <img src="https://github.com/s3g/crcltr/assets/2341558/8543cadd-4c53-4c67-aff7-c281ff58f9c5" width="360">
@@ -50,7 +51,7 @@ Here are the mappings using the Antri Versio faceplate numbering:
 
 **Why these decisions?** That's the great thing about making your own firmware. I've customized this module to work well with my system and performance approach.  There was a lot of trial and error to see what translates well to the Versio module while I was learning more about Gen programming in Max. No doubt there is room for improvement and optimization of the code.  
 
-**Suggestion** If you have two Versio modules, install this firmware on both and use in tandem feeding one into the other.  That way you could have double seamless loopers (loop 1) or double ducking loopers (loop 2), use all four loopers together, or makes loops out of loops. Try setting the Xfade type to an LFO mode on both modules and the Blend dial around 12 o'clock on second module and you'll have all 4 loops interacting. 
+**Suggestion.** If you have two Versio modules, install this firmware on both and use in tandem, feeding one into the other.  That way you could have double seamless loopers (loop 1) or double ducking loopers (loop 2), use all four loopers together, or makes loops out of loops. Try setting the Xfade type to an LFO mode on both modules and the Blend dial around 12 o'clock on the second module and you'll have all 4 loops interacting. 
 
 
 
