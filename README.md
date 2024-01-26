@@ -45,7 +45,7 @@ Here are the mappings using the Antri Versio faceplate numbering:
 
 **Blend** mixes between the source audio and recorded loops with equal power.
 
-**Gain dials** for input and output can be set near 4 o'clock for good results. It will depend somewhat your patch where you want this.  If either is a hot signal, tanh distortion is applied.  
+**Gain dials** for input and output can be set near 4 o'clock for good results. It will depend somewhat on your patch signals where you want this.  If either is a hot signal, tanh distortion is applied.  
 
 **FSU / button / gate** records while held.  This ignores button/gate times less than 100 milliseconds to avoid accidental loop erasures. 
 
